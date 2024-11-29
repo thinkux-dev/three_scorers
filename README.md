@@ -1,12 +1,20 @@
 **Match Details Flutter Application**
 
+<<<<<<< HEAD
 Overview
+=======
+**Overview**
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
 This Flutter application is a detailed implementation of a Match Details screen, developed as part of an assessment to showcase UI implementation, state management, and dynamic data handling skills. The project focuses on creating a pixel-perfect representation of a sports match details page with various interactive components.
 
 Project Structure
 The application follows an MVC (Model-View-Controller) design pattern, emphasizing clean, modular, and reusable code. Custom widget components have been created to enhance code organization and maintainability.
 
+<<<<<<< HEAD
 Dependencies
+=======
+**Dependencies**
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
 
 ### Responsiveness
 - `flutter_screenutil`: Ensures responsive design across different device screen sizes
@@ -35,7 +43,11 @@ Dependencies
 ## External Resources
 - Webhook.site: Used for converting sample JSON data to a fake API
 
+<<<<<<< HEAD
 Development Challenges
+=======
+**Development Challenges**
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
 
 UI Implementation
 - Navigating complex UI components for the first time
@@ -56,16 +68,30 @@ Future Improvements
 
 ## Running the Application
 
+<<<<<<< HEAD
 Prerequisites
+=======
+**Prerequisites**
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
 - Flutter SDK
 - Dart SDK
 - Compatible development environment (Android Studio, VS Code)
 
+<<<<<<< HEAD
 Setup Steps
+=======
+**Setup Steps**
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
 1. Clone the repository
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter pub run build_runner build` for code generation
 4. Launch the application using `flutter run`
 
+<<<<<<< HEAD
 Acknowledgments
 Grateful for the challenging assessment that pushed the boundaries of my Flutter development knowledge.
+=======
+**Acknowledgments**
+Grateful for the challenging assessment that pushed the boundaries of my Flutter development knowledge.
+
+>>>>>>> 80d139735bf0d51446da790ba69856c9e4e6b7e4
